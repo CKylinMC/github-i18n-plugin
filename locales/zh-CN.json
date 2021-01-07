@@ -169,6 +169,8 @@
     "organizations": "组织",
 
     "__comments-9": "Repository",
+    "go to line": "跳转到行",
+    "copy path": "复制路径",
     "participating and @mentions": "参与和提及",
     "only receive notifications from this repository when participating or @mentioned.": "仅在参与或@提及时从此存储库接收通知。",
     "notified of all notifications on this repository.": "接收这个存储库的所有通知",
